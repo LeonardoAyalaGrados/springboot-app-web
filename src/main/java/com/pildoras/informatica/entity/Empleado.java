@@ -38,7 +38,7 @@ public class Empleado {
 	//hola muchachos
 	//como se enceuentran
 	//mis kones gaaa
-
+	//TMR ACA PS PRACTICANDO XD 
 	public Empleado() {
 		super();
 		// TODO Auto-generated constructor stub
