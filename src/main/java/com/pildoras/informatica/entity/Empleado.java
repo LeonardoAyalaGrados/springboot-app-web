@@ -35,7 +35,9 @@ public class Empleado {
 	private Departamento departamento;
 
 
-	
+	//hola muchachos
+	//como se enceuentran
+	//mis kones gaaa
 
 	public Empleado() {
 		super();
